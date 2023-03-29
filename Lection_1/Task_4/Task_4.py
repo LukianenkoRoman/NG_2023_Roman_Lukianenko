@@ -15,3 +15,4 @@ elif discriminant == 0:
     print('only one root:', x)
 else:
     print('none decision:')
+

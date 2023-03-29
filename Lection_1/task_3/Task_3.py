@@ -1,4 +1,3 @@
-
 x = float(input('number one:'))
 y = float(input('number two:'))
 operation = input('operation:')
@@ -16,3 +15,4 @@ else:
     print("eror")
 if result is not None:
     print("result:", result)
+
