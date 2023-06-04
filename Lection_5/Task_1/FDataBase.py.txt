@@ -12,8 +12,3 @@ def getMenu(self):
     except:
         print("bd reading error")
     return []
-
-
-
-
-
